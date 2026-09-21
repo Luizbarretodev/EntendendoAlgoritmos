@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EntendendoAlgoritmos.Console/EntendendoAlgoritmos.Console.csproj" />
+  <Project Path="EntendendoAlgoritmos.Core/EntendendoAlgoritmos.Core.csproj" />
+  <Project Path="EntendendoAlgoritmos.Tests/EntendendoAlgoritmos.Tests.csproj" />
+</Solution>
